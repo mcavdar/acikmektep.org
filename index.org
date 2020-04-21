@@ -1,0 +1,10 @@
+#+AUTHOR: MC
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+
+* açık mektep 
+
+Merhaba dünya!
+
+** Nedir bu açık mektep?
