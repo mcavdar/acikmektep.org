@@ -6,7 +6,7 @@
 #+LANGUAGE:    tr
 
 
-* açık mektep 
+* Açık Mektep 
 
 Merhaba dünya!
 

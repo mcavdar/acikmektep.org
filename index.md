@@ -1,6 +1,6 @@
 
 
-# açık mektep
+# Açık Mektep
 
 Merhaba dünya!
 
