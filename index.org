@@ -10,6 +10,6 @@
 
 Merhaba dünya!
 
-** Nedir bu Açık Mektep?
+** TODO Nedir bu Açık Mektep?
 
-** TODO Açık Mektep tanıtım
+
