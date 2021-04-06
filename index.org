@@ -2,9 +2,14 @@
 #+OPTIONS: html-postamble:nil
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
+#+TITLE: Açık Mektep
+#+LANGUAGE:    tr
+
 
 * açık mektep 
 
 Merhaba dünya!
 
-** Nedir bu açık mektep?
+** Nedir bu Açık Mektep?
+
+** TODO Açık Mektep tanıtım
