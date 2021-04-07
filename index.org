@@ -12,4 +12,6 @@ Merhaba dünya!
 
 ** TODO Nedir bu Açık Mektep?
 
+** TODO Grup - https://groups.google.com/g/acikmektep
 
+İletişim için [[mailto:acikmektep.org@gmail.com][acikmektep.org@gmail.com]] adresine yazınız.
